@@ -25,7 +25,7 @@ In jouw gereedschapskist is jouw editor misschien wel het belangrijkste stuk ger
 
 Een tekstbestand genaamd `taak02.txt` met daarin een lijstje met VS Code interface elementen.
 
-## Bronnen
+## Bronnenvghvgj
 
 [Wikipedia - Visual Studio Code](https://en.wikipedia.org/wiki/Visual_Studio_Code)  
 
